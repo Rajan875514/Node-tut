@@ -1,0 +1,34 @@
+{
+  "name": "tut",
+  "version": "1.0.0",
+  "description": "nodejs work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node javascript.js",
+    "dev": "nodemon javascript.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajan875514/node-js.git"
+  },
+  "keywords": [
+    "code",
+    "solution"
+  ],
+  "author": "Rajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rajan875514/node-js/issues"
+  },
+  "homepage": "https://github.com/Rajan875514/node-js#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.10.0",
+    "nodemon": "^3.1.3",
+    "simple-node-logger": "^21.8.12"
+  }
+}
